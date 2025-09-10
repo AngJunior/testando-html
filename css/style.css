@@ -1,0 +1,50 @@
+h1{color:rgb(243, 230, 2)}
+a {
+ color: red;
+}
+a:hover {
+ color: yellow;
+}
+a:focus {
+ color: blue;
+}
+
+h1 { text-align: center; }
+p { text-align: justify; }
+footer p{ text-align: center; }
+aside p{ text-align: center; }
+aside h2{ text-align: center; }
+nav p{ text-align: center; }
+section { text-align: center; }
+* {
+ box-sizing: border-box;
+}
+article {
+width: 450px;
+border: 20px solid #9a2b2b;
+padding: 50px;
+margin: 20px;
+margin-left: auto;
+margin-right: auto;
+background-color: #101883eb;
+color: white;
+}
+footer {
+ background-color: #101883eb;
+ color: white;
+ border: 20px solid #9a2b2b;
+ padding: 10px;
+ margin-top: 20px;
+}
+nav {
+ background-color: #101883eb;
+ color: white;
+ border: 20px solid #9a2b2b;
+ padding: 10px;
+ margin-top: 20px;
+}
+
+
+body {
+ background-color: #fdea55;
+}
